@@ -1,4 +1,4 @@
-# heart_failure_classification
+# heart_failure_classif_rlog_svm
 heart failure classification using MLlib
 - Source : Kaggle Dataset
 - URL : https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
